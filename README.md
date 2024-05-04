@@ -10,14 +10,14 @@ The code includes
 
  
 
-- Movement Code
+- "Ability" Code
 
-- A player state machine
+- Enemy State Machine
 
-- A PlayerState class that defines states the player can be in (moving, attacking, etc.)
-
-- An (attempt at an) event delegate that hasn't been implemented
+- An Event Delegate
 
 - Unity Scriptable Objects
 
 - Two interfaces: ILearnable and IDamageable
+
+- etc
